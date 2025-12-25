@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "変貌",
+  "base_artist": "ねぎ塩豚丼",
+  "createdAt": "2025-12-25T08:12:59.338957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "変貌",
+      "artist": "ねぎ塩豚丼",
+      "has_synced": false,
+      "path": "select/pl_01_変貌_ねぎ塩豚丼.txt"
+    }
+  ]
+}
